@@ -1,1 +1,1 @@
-main/** linguist-vendored
+*.ipynb -linguist-detectable
